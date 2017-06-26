@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "848835271447",
+    "firebase_url": "https://videiraitapp.firebaseio.com",
+    "project_id": "videiraitapp",
+    "storage_bucket": "videiraitapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848835271447:android:2f566b58d4cb26df",
+        "android_client_info": {
+          "package_name": "br.com.thiagopiresapps.whatsitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848835271447-gb2m4hn6n189hjv400qcqbetj1bvjaln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.thiagopiresapps.whatsitapp",
+            "certificate_hash": "5f8488c3ac14c9ef7a9792dd64c44e5834458dba"
+          }
+        },
+        {
+          "client_id": "848835271447-8fge9nmtl69tri3qh5p7ac1lrkgcvfdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR5HQgukb18ODqIg2x9tpDikfbfiv-bo0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848835271447-8fge9nmtl69tri3qh5p7ac1lrkgcvfdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
